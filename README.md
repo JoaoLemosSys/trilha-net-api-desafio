@@ -11,7 +11,7 @@ Essa lista de tarefas precisa ter um CRUD, ou seja, deverá permitir a você obt
 
 A sua aplicação deverá ser do tipo Web API ou MVC, fique a vontade para implementar a solução que achar mais adequado.
 
-A sua classe principal, a classe de tarefa, deve ser a seguinte:
+A sua classe principal, a classe de tarefa, deve  ser a seguinte:
 
 ![Diagrama da classe Tarefa](diagrama.png)
 
